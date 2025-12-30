@@ -3,8 +3,12 @@
   <img src="https://i.ibb.co/b6XCMVJ/black-tech-banner.gif" width="900">
 </p>
 
-<h1 align="center">⚡ Sai Ram Bebarta ⚡</h1>
+<!-- ====================== NAME ====================== -->
+<h1 align="center">
+  ⚡ Sai Ram Bebarta ⚡
+</h1>
 
+<!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Tech+Explorer;Always+Learning+Always+Building">
 </p>
@@ -19,6 +23,10 @@
 🎓 Computer Science Engineering Student (2022–2026)  
 💻 Passionate Full-Stack & AI Developer  
 🚀 Turning ideas into scalable, real-world applications  
+
+I love building impactful software — from intelligent AI systems to modern full-stack platforms.  
+With experience in **Next.js, Node.js, MERN Stack, AI/ML & Deep Learning**,  
+I enjoy solving real problems using technology.
 
 ---
 
@@ -38,6 +46,13 @@
 
 ---
 
+## 🧑‍💻 Coding Vibes
+<p align="right">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
+</p>
+
+---
+
 ## ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sairam-cyber&show_icons=true&theme=tokyonight" height="170"/>
@@ -49,9 +64,10 @@
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-contribution-snake.vercel.app/sairam-cyber" />
+  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/github-contribution-grid-snake.svg?sanitize=true">
 </p>
 
 ---
