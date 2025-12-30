@@ -19,11 +19,10 @@
 
 ---
 
-<h2 align="center">✨ About Me</h2>
-
- 🎓 Computer Science Engineering Student (2022–2026)  
- 💻 Passionate Full-Stack & AI Developer  
- 🚀 Turning ideas into scalable, real-world applications  
+## ✨ About Me
+🎓 Computer Science Engineering Student (2022–2026)  
+💻 Passionate Full-Stack & AI Developer  
+🚀 Turning ideas into scalable, real-world applications  
 
 I love building impactful software — from intelligent AI systems to modern full-stack platforms.  
 With experience in **Next.js, Node.js, MERN Stack, AI/ML & Deep Learning**,  
@@ -31,7 +30,7 @@ I enjoy solving real problems using technology.
 
 ---
 
-<h2 align="center"> 🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/sai-ram-bebarta"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="mailto:sairambebarta999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
@@ -40,19 +39,18 @@ I enjoy solving real problems using technology.
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
-
+## 🚀 Tech Stack
 <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,tensorflow,pytorch,flask,java,c,cpp,linux,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,tensorflow,pytorch,flask,java,c,cpp,linux,vscode,git,github" />
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 Coding Vibes</h2>
-
+## 🧑‍💻 Coding Vibes
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
 </p>
+
 
 ---
 
