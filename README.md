@@ -5,7 +5,7 @@
 
 <!-- ====================== NAME ====================== -->
 <h1 align="center">
-  <span style="color:#4dffff;">⚡ Sai Ram Bebarta ⚡</span>
+  ⚡ Sai Ram Bebarta ⚡
 </h1>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
@@ -55,19 +55,19 @@ I enjoy solving real problems using technology.
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairam-cyber&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sairam-cyber&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=sairam-cyber&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-cyber&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sairam-cyber&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
