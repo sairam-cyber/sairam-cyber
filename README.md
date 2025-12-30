@@ -49,10 +49,9 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/snake.svg">
+  <img src="https://github-contribution-snake.vercel.app/sairam-cyber" />
 </p>
 
 ---
