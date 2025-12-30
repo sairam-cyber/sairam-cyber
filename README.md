@@ -46,9 +46,10 @@ I enjoy solving real problems using technology.
 
 ---
 
-## 🧑‍💻 Coding Vibes
-<p align="right">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
+<h2 align="center">👨‍💻 Coding Vibes</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
 </p>
 
 ---
