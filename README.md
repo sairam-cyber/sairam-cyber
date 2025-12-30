@@ -67,8 +67,9 @@ I enjoy solving real problems using technology.
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/sairam-cyber/sairam-cyber/output/github-contribution-grid-snake.svg?sanitize=true">
 </p>
+
 
 ---
 
