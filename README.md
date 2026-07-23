@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Ram Bebarta</h1>
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F5eG0zZ2l0aXQ4aXQ4b3p4M2I4b3h5cTFjYW5jOGx4bW5nMXp0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
+<img align="right" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">v
 
 <h3 align="center">
 Full-Stack MERN & GenAI Developer
