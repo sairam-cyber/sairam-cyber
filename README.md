@@ -9,7 +9,7 @@ Building scalable web applications, AI-powered products, and modern user experie
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio.vercel.app">
+  <a href="https://portfolio-mocha-rho-61.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -17,7 +17,7 @@ Building scalable web applications, AI-powered products, and modern user experie
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sairambebarta999@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
