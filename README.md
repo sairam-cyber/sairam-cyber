@@ -10,13 +10,13 @@
 
 Building scalable web applications, AI-powered products, and modern user experiences.
 
-### 🚀 What I'm Doing
+### What I'm Doing
 
-- 💻 Building Full-Stack MERN Applications
-- 🤖 Developing AI & RAG Applications
-- 🌱 Learning System Design & Cloud
-- 🚀 Open to Freelance Opportunities
-- ⚡ Passionate about building scalable products
+- Building Full-Stack MERN Applications
+- Developing AI & RAG Applications
+- Learning System Design & Cloud
+- Open to Freelance Opportunities
+- Passionate about building scalable products
 
 <br>
 
@@ -44,21 +44,21 @@ Building scalable web applications, AI-powered products, and modern user experie
 
 ---
 
-## 💻 About Me
+## About Me
 
 I'm a **Full-Stack MERN & GenAI Developer** passionate about building modern web applications, intelligent AI systems, and scalable backend architectures.
 
 I enjoy transforming ideas into production-ready software while continuously improving my engineering skills.
 
-- 💼 Available for Freelance Projects
-- 🚀 Building AI-powered SaaS Applications
-- 📚 Exploring Agentic AI & Multi-Agent Systems
-- ☁️ Learning Cloud Infrastructure & DevOps
-- 🎯 Focused on writing clean, maintainable code
+- Available for Freelance Projects
+- Building AI-powered SaaS Applications
+- Exploring Agentic AI & Multi-Agent Systems
+- Learning Cloud Infrastructure & DevOps
+- Focused on writing clean, maintainable code
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -73,7 +73,7 @@ I enjoy transforming ideas into production-ready software while continuously imp
 ---
 
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - System Design
 - Docker & Kubernetes
@@ -85,17 +85,6 @@ I enjoy transforming ideas into production-ready software while continuously imp
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://portfolio-mocha-rho-61.vercel.app/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/sai-ram-bebarta/">💼 LinkedIn</a> •
-<a href="mailto:sairambebarta999@gmail.com">📧 Email</a>
-
-</p>
-
----
 
 <p align="center">
 
