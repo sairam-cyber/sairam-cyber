@@ -38,31 +38,18 @@ I enjoy solving real-world problems using modern technologies and continuously i
 
 ---
 
-## 🚀 Tech Stack
 
-### Frontend
+## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase"/>
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
-</p>
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux |
+| **Backend** | Node.js • Express.js • FastAPI • Flask • REST APIs |
+| **AI & GenAI** | LangChain • LangGraph • RAG • Agentic AI • Hugging Face • Gemini API • Groq API • FAISS |
+| **Machine Learning** | TensorFlow • PyTorch • Pandas • NumPy |
+| **Database** | MongoDB • PostgreSQL • MySQL • SQLite • Redis |
+| **DevOps & Cloud** | Docker • AWS • GitHub Actions • Vercel |
+| **Tools** | Git • GitHub • VS Code • Postman • Figma |
 
 ---
 
