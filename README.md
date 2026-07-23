@@ -72,23 +72,6 @@ I enjoy transforming ideas into production-ready software while continuously imp
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sairam-cyber&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-cyber&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-cyber&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌱 Currently Learning
 
