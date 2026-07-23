@@ -1,74 +1,117 @@
-<!-- ====================== PREMIUM BANNER ====================== -->
-<p align="center">
-  <img src="https://i.ibb.co/b6XCMVJ/black-tech-banner.gif" width="900">
-</p>
+<h1 align="center">Hi 👋, I'm Sai Ram Bebarta</h1>
 
-<!-- ====================== NAME ====================== -->
-<h1 align="center">
-  ⚡ Sai Ram Bebarta ⚡
-</h1>
+<h3 align="center">
+Full-Stack MERN & GenAI Developer
+</h3>
 
-<!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Tech+Explorer;Always+Learning+Always+Building">
+Building scalable web applications, AI-powered products, and modern user experiences.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sairam-cyber&label=Profile%20Views&color=0ef&style=for-the-badge"/>
+  <a href="https://your-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sai-ram-bebarta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ✨ About Me
-🎓 Computer Science Engineering Student (2022–2026)  
-💻 Passionate Full-Stack & AI Developer  
-🚀 Turning ideas into scalable, real-world applications  
+## 💻 About Me
 
-I love building impactful software — from intelligent AI systems to modern full-stack platforms.  
-With experience in **Next.js, Node.js, MERN Stack, AI/ML & Deep Learning**,  
-I enjoy solving real problems using technology.
+I'm a Full-Stack MERN & GenAI Developer passionate about building high-performance web applications and AI-powered solutions.
 
----
+I enjoy solving real-world problems using modern technologies and continuously improving my software engineering skills.
 
-## 🌐 Connect With Me
-<p>
-<a href="https://linkedin.com/in/sai-ram-bebarta"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="mailto:sairambebarta999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://github.com/sairam-cyber"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-</p>
+- 🔭 Building Full-Stack Applications
+- 🤖 Exploring Generative AI & LLMs
+- 🌱 Learning System Design & Cloud
+- 💼 Open to Freelance Opportunities
+- ⚡ Passionate about creating scalable products
 
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,tensorflow,pytorch,flask,java,c,cpp,linux,vscode,git,github" />
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase"/>
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
 </p>
 
 ---
 
-## 🧑‍💻 Coding Vibes
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
 </p>
 
+<p align="center">
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sairam-cyber&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=sairam-cyber&theme=tokyonight" height="170"/>
-</p>
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sairam-cyber&layout=compact&theme=tokyonight" height="165"/>
+- Advanced Backend Architecture
+- Docker & Kubernetes
+- AWS Cloud
+- System Design
+- AI Agents
+- RAG Applications
+- LangGraph
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://your-portfolio.vercel.app">🌐 Portfolio</a>
+
+<a href="https://www.linkedin.com/in/sai-ram-bebarta/">💼 LinkedIn</a>
+
+<a href="mailto:yourmail@gmail.com">📧 Email</a>
+
 </p>
 
 ---
 
-## 🎯 Goals
-* Become a strong Full-Stack / AI Engineer  
-* Build impactful real-world projects  
-* Keep learning, keep building, keep growing 🚀  
+<p align="center">
 
-📩 Reach Me → **sairambebarta999@gmail.com**
+<i>"Build products that solve real problems."</i>
+
+</p>
