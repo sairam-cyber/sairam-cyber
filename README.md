@@ -1,48 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sai Ram Bebarta</h1>
+<h1 align="center">
+  Hi 👋, I'm Sai Ram Bebarta
+</h1>
 
-<img align="right" width="380"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<h3 align="center">
-Full-Stack MERN & GenAI Developer
-</h3>
+## Full-Stack MERN & GenAI Developer
 
-<p align="center">
 Building scalable web applications, AI-powered products, and modern user experiences.
-</p>
 
-<p align="center">
-  <a href="https://portfolio-mocha-rho-61.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+### 🚀 What I'm Doing
 
-  <a href="https://www.linkedin.com/in/sai-ram-bebarta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+- 💻 Building Full-Stack MERN Applications
+- 🤖 Developing AI & RAG Applications
+- 🌱 Learning System Design & Cloud
+- 🚀 Open to Freelance Opportunities
+- ⚡ Passionate about building scalable products
 
-  <a href="mailto:sairambebarta999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://portfolio-mocha-rho-61.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sai-ram-bebarta/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sairambebarta999@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 About Me
 
-I'm a Full-Stack MERN & GenAI Developer passionate about building high-performance web applications and AI-powered solutions.
+I'm a **Full-Stack MERN & GenAI Developer** passionate about building modern web applications, intelligent AI systems, and scalable backend architectures.
 
-I enjoy solving real-world problems using modern technologies and continuously improving my software engineering skills.
+I enjoy transforming ideas into production-ready software while continuously improving my engineering skills.
 
-- 🔭 Building Full-Stack Applications
-- 🤖 Exploring Generative AI & LLMs
-- 🌱 Learning System Design & Cloud
-- 💼 Open to Freelance Opportunities
-- ⚡ Passionate about creating scalable products
+- 💼 Available for Freelance Projects
+- 🚀 Building AI-powered SaaS Applications
+- 📚 Exploring Agentic AI & Multi-Agent Systems
+- ☁️ Learning Cloud Infrastructure & DevOps
+- 🎯 Focused on writing clean, maintainable code
 
 ---
 
-
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -51,35 +67,48 @@ I enjoy solving real-world problems using modern technologies and continuously i
 | **AI & GenAI** | LangChain • LangGraph • RAG • Agentic AI • Hugging Face • Gemini API • Groq API • FAISS |
 | **Machine Learning** | TensorFlow • PyTorch • Pandas • NumPy |
 | **Database** | MongoDB • PostgreSQL • MySQL • SQLite • Redis |
-| **DevOps & Cloud** | Docker • AWS • GitHub Actions • Vercel |
+| **Cloud & DevOps** | Docker • AWS • Vercel • GitHub Actions |
 | **Tools** | Git • GitHub • VS Code • Postman • Figma |
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sairam-cyber&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-cyber&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairam-cyber&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
 
 ## 🌱 Currently Learning
 
-- Advanced Backend Architecture
+- System Design
 - Docker & Kubernetes
 - AWS Cloud
-- System Design
-- AI Agents
-- RAG Applications
+- Agentic AI
 - LangGraph
+- RAG Applications
+- Scalable Backend Architecture
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://your-portfolio.vercel.app">🌐 Portfolio</a>
-
-<a href="https://www.linkedin.com/in/sai-ram-bebarta/">💼 LinkedIn</a>
-
-<a href="mailto:yourmail@gmail.com">📧 Email</a>
+<a href="https://portfolio-mocha-rho-61.vercel.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/sai-ram-bebarta/">💼 LinkedIn</a> •
+<a href="mailto:sairambebarta999@gmail.com">📧 Email</a>
 
 </p>
 
@@ -87,6 +116,6 @@ I enjoy solving real-world problems using modern technologies and continuously i
 
 <p align="center">
 
-<i>"Build products that solve real problems."</i>
+<i>"Building software that creates real-world impact."</i>
 
 </p>
